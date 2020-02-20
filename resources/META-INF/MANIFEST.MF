@@ -1,0 +1,105 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout-large/splash.xml
+SHA1-Digest: ID/s4cthHrk7jSR2v9ubLCi00lM=
+
+Name: res/layout-large/movie_list.xml
+SHA1-Digest: sZnlbE6FulCFoC3ZID28P2+jSio=
+
+Name: res/layout-xlarge/splash.xml
+SHA1-Digest: ID/s4cthHrk7jSR2v9ubLCi00lM=
+
+Name: res/layout-xlarge/movie_item.xml
+SHA1-Digest: PSWcQ5WHKyuNvn3TZmxxtfP6eeU=
+
+Name: res/drawable-xxhdpi/iconstar.png
+SHA1-Digest: VtxvsUmsDKLepu+nlJ0CIUJTmhM=
+
+Name: res/layout-xlarge/activity_main.xml
+SHA1-Digest: Zu08Q+QIUc5dv6CnBB4RT0ckfr8=
+
+Name: res/layout-xlarge/about.xml
+SHA1-Digest: HGEsGKpmaOgwHSaXfO4eqsuopQU=
+
+Name: res/layout-large/activity_main.xml
+SHA1-Digest: badL+Qqwi7YtZB+OQ11kDN7io/U=
+
+Name: resources.arsc
+SHA1-Digest: BW7vLpn3FHL8JoTyEAgM4sP1KHQ=
+
+Name: res/drawable-xhdpi/iconlogo.png
+SHA1-Digest: PHQmMUporYd0AcrXSt5L/wO6bPg=
+
+Name: res/drawable-xxhdpi/iconlogo.png
+SHA1-Digest: +W2W2ZCxWaWzNd8uAoKXuO74AL8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5tBwrIikH6/XXTgI//Zka6Cvt7E=
+
+Name: res/layout/movie_item.xml
+SHA1-Digest: eRPln6ruFbxY4s2yiZSN7wbBUOI=
+
+Name: res/layout/movie_list.xml
+SHA1-Digest: KUflkKsWJVbHvZeWeaLHNgezdIo=
+
+Name: res/drawable-xhdpi/iconstar.png
+SHA1-Digest: mcaiAUqowIBFGBrLYJseejN6ghc=
+
+Name: res/drawable-hdpi/logomain.png
+SHA1-Digest: pU2zV2k52g/x+0sgJtZSh4Nn6r0=
+
+Name: res/layout/splash.xml
+SHA1-Digest: 2WA7lNOuifgusxHkWK2Xhx0yvAg=
+
+Name: res/drawable-hdpi/logodialogplaceholder.png
+SHA1-Digest: Ar0VqwRYOO/3BOFtXRJVub7gueY=
+
+Name: res/drawable-hdpi/iconstar.png
+SHA1-Digest: 0HGaEnMygBHXDSMGtRrMpBqSLOI=
+
+Name: res/drawable-hdpi/dialog_border.xml
+SHA1-Digest: 7dTt9jJF69iV7rEEjqMlIRnRq4k=
+
+Name: res/layout-large/movie_item.xml
+SHA1-Digest: imNVGuowtqQ+/lDD59ERu4Zxn1k=
+
+Name: classes.dex
+SHA1-Digest: aSfQHhucYkzUWZhqSBA0o6XEh8w=
+
+Name: res/layout-xlarge/movie_list.xml
+SHA1-Digest: ptE/KJKGWz3+hTvVi8AUDNUkOGs=
+
+Name: res/layout-xlarge/movie_dialog.xml
+SHA1-Digest: 8B7ueCfKO/bM9c974vOH+2w4Pwk=
+
+Name: res/drawable-hdpi/iconlogo.png
+SHA1-Digest: Ic6hrc4DI/LFrjHGg2/A9Tfbmn4=
+
+Name: res/drawable-hdpi/logosplash.png
+SHA1-Digest: 4hJl9IGKHepBdiYesyLs918UITg=
+
+Name: res/layout-large/about.xml
+SHA1-Digest: BOvvMY/f5pipJtuFwm3EScwZZuU=
+
+Name: res/layout-large/movie_dialog.xml
+SHA1-Digest: kvRnAl2cCaaqqhkGN8BIHhXPYFA=
+
+Name: res/menu/main.xml
+SHA1-Digest: P+2ClrNwtQOSTkN6Dm6JfC4cFd8=
+
+Name: res/drawable-hdpi/input_round.xml
+SHA1-Digest: eVyYzWJC8eCTOu0FHhx93addDHE=
+
+Name: res/drawable-hdpi/logonotext.png
+SHA1-Digest: yGz7r5qT4PIBTe9mlvxq2SNUp7k=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: EQaYRrnPpKgZsEeIWxCvs6101wQ=
+
+Name: res/layout/movie_dialog.xml
+SHA1-Digest: szlAKuI1JMTdVdWJPjcVaTqL7rU=
+
+Name: res/layout/about.xml
+SHA1-Digest: eIJoPcisV9qmW5L+ZTURs+m/uBk=
+

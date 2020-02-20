@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="60dp" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+        <TextView android:id="@+id/movieId" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerInParent="true">
+            <TextView android:textColor="#0075d9" android:id="@+id/movieReleaseDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5dp" android:text="1982"/>
+            <TextView android:textColor="#ff7f00" android:id="@+id/movieRating" android:layout_width="20sp" android:layout_height="wrap_content" android:text="7.6"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerInParent="true">
+            <ImageView android:id="@+id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/iconstar"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="18sp" android:id="@+id/movieTitle" android:paddingBottom="2dp" android:layout_width="220sp" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="Sample Movie"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

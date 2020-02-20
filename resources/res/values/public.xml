@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="dialog_border" id="2130837504" />
+    <public type="drawable" name="iconlogo" id="2130837505" />
+    <public type="drawable" name="iconstar" id="2130837506" />
+    <public type="drawable" name="input_round" id="2130837507" />
+    <public type="drawable" name="logodialogplaceholder" id="2130837508" />
+    <public type="drawable" name="logomain" id="2130837509" />
+    <public type="drawable" name="logonotext" id="2130837510" />
+    <public type="drawable" name="logosplash" id="2130837511" />
+    <public type="layout" name="about" id="2130903040" />
+    <public type="layout" name="activity_main" id="2130903041" />
+    <public type="layout" name="movie_dialog" id="2130903042" />
+    <public type="layout" name="movie_item" id="2130903043" />
+    <public type="layout" name="movie_list" id="2130903044" />
+    <public type="layout" name="splash" id="2130903045" />
+    <public type="dimen" name="activity_horizontal_margin" id="2130968576" />
+    <public type="dimen" name="activity_vertical_margin" id="2130968577" />
+    <public type="string" name="app_name" id="2131034112" />
+    <public type="string" name="action_settings" id="2131034113" />
+    <public type="string" name="hello_world" id="2131034114" />
+    <public type="style" name="AppBaseTheme" id="2131099648" />
+    <public type="style" name="AppTheme" id="2131099649" />
+    <public type="menu" name="main" id="2131165184" />
+    <public type="id" name="mainLogo" id="2131230720" />
+    <public type="id" name="movieSearchInput" id="2131230721" />
+    <public type="id" name="movieSearchSubmit" id="2131230722" />
+    <public type="id" name="aboutButton" id="2131230723" />
+    <public type="id" name="chosenImage" id="2131230724" />
+    <public type="id" name="chosenRating" id="2131230725" />
+    <public type="id" name="closeButton" id="2131230726" />
+    <public type="id" name="chosenTitle" id="2131230727" />
+    <public type="id" name="chosenDescription" id="2131230728" />
+    <public type="id" name="movieId" id="2131230729" />
+    <public type="id" name="movieReleaseDate" id="2131230730" />
+    <public type="id" name="movieRating" id="2131230731" />
+    <public type="id" name="imageView1" id="2131230732" />
+    <public type="id" name="movieTitle" id="2131230733" />
+    <public type="id" name="listViewMovies" id="2131230734" />
+    <public type="id" name="action_settings" id="2131230735" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="#272223" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="#272223" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:gravity="center" android:layout_gravity="center" android:id="@+id/mainLogo" android:padding="0dp" android:layout_width="match_parent" android:layout_height="300dp" android:src="@drawable/logonotext"/>
+        <TextView android:textSize="30sp" android:textColor="#ffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="About MovieSuggester AI"/>
+        <TextView android:textSize="20sp" android:textColor="#ffffff" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40dp" android:layout_marginTop="70dp" android:layout_marginRight="40dp" android:text="Movie Suggester AI uses machine learning to form predictive models on the relationship between similar movie tastes.\10\10Movies are found based on a single film input, returning a list for the avid movie watcher to enjoy." android:textAlignment="center"/>
+    </LinearLayout>
+</ScrollView>
